@@ -18,6 +18,6 @@ labs 3-5 on subject "Intellectual Data Analysis"
 ## How to:
 1. install requirements:
 ``` 
-python -m pip install -r requirements.txt
+python3 -m pip install -r requirements.txt
 ```
 2. enjoy pretty plots!
