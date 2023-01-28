@@ -6,7 +6,7 @@ labs 3-5 on subject "Intellectual Data Analysis"
 ### lab 5: clusterization
 
 ## Language:
-- python
+- python 3.9
 ## Libs:
 - pandas
 - numpy
@@ -14,3 +14,10 @@ labs 3-5 on subject "Intellectual Data Analysis"
 ## Plots:
 - matplotlib
 - seaborn
+
+## How to:
+1. install requirements:
+``` 
+python -m pip install -r requirements.txt
+```
+2. enjoy pretty plots!
