@@ -21,3 +21,8 @@ labs 3-5 on subject "Intellectual Data Analysis"
 python3 -m pip install -r requirements.txt
 ```
 2. enjoy pretty plots!
+
+## Dataset credits:
+#### lab3: arrhythmia dataset: https://archive.ics.uci.edu/ml/datasets/arrhythmia
+#### lab4: huyndi dataset: https://www.kaggle.com/datasets/adityadesai13/used-car-dataset-ford-and-mercedes
+#### lab5: dry beans dataset: https://archive.ics.uci.edu/ml/datasets/dry+bean+dataset
